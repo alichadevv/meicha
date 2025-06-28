@@ -1,8 +1,8 @@
-![My card name](https://cardivo.vercel.app/api?name=Zhirrr&description=Hi,%20i%27m%20a%20back%20end%20web%20developer%20and%20i%27m%2014%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/75620279?v=4&backgroundColor=%23ecf0f1&instagram=zhirr_ajalah&linkedin=Zhirrr&github=Zhirrr&twitter=Zhirrr&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Meicha&description=Hi,%20i%27m%20a%20back%20end%20web%20developer%20and%20i%27m%2014%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/75620279?v=4&backgroundColor=%23ecf0f1&instagram=xydlanlux&github=Meicha&pattern=leaf&colorPattern=%23eaeaea)
 
-![](https://visitor-badge.glitch.me/badge?page_id=Zhirrr)
+![](https://visitor-badge.glitch.me/badge?page_id=alichadevv)
 
-## Ahlan Wa Sahlan<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Fadlan Syahid Ali<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 Hi, I'm Meicha, My Full Name Is Meicha Icha, Or you Can call me as Meicha, I'm an 15 y.o Coder. and I'm still a student at SMK Bhina Karya Mandiri
 <br>
 <p align='center'>
